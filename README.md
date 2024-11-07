@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Anything! I like to help**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -24,5 +24,17 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aballaynicolas&show_icons=true&locale=en" alt="aballaynicolas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aballaynicolas&" alt="aballaynicolas" /></p>
+<h3 align="left">Connect with me:</h3> 
+
+If you want to know more about my projects or about me, contact me:
+
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-aballay-6a3543335/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AballayNicolas)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasaballay778@gmail.com)
+
+
 
