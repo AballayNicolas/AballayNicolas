@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 
-If you want to know more about my projects or about me, contact me:
+If you want to know more about my projects or about me:
 
 
 ## Contact
