@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aballaynicolas" alt="aballaynicolas" /></a> </p>
 
-- 🌱 I’m currently learning **courses**
+- 🌱 I’m currently learning **Java, CSS % HTML**
 
 - 📫 How to reach me **nicolasaballay778@gmail.com**
 
