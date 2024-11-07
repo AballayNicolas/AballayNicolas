@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aballaynicolas" alt="aballaynicolas" /></a> </p>
 
-- 🌱 I’m currently learning **Java, CSS % HTML**
+- 🔭 I’m currently working on **Google & Yelp project**
 
-- 📫 How to reach me **nicolasaballay778@gmail.com**
+- 🌱 I’m currently learning **Java, CSS & HTML**
+
+- 👯 I’m looking to collaborate on **data scientist projects**
+
+- 💬 Ask me about **Anything! I like to help**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aballaynicolas&show_icons=true&locale=en" alt="aballaynicolas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aballaynicolas&" alt="aballaynicolas" /></p>
+
