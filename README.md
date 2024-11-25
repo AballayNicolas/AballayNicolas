@@ -65,17 +65,7 @@
   If you want to know more about my projects or about me:
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nicolas-aballay-6a3543335/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
 
-<p align="left">
-  <a href=["https://github.com/AballayNicolas" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
 
 
 
