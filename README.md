@@ -7,11 +7,23 @@
 
 - 🔭 I’m currently working on **Google & Yelp project**
 
+- ❤️ My favorite language is Python anda Java
+
 - 🌱 I’m currently learning **Java, CSS & HTML**
 
 - 👯 I’m looking to collaborate on **data scientist projects**
 
 - 💬 Ask me about **Anything! I like to help**
+
+- 📝 My current goal is to continue learning and become a good data scientist.
+
+- 💚 Interests: Science, Learn and Get to know new places
+
+
+
+
+
+
 
 
 <p align="left">
