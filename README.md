@@ -34,10 +34,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aballaynicolas&show_icons=true&locale=en&layout=compact" alt="aballaynicolas" /></p>
 
-------------------------------------------------------------------
 
 
-<h3 align="left">Connect with me:</h3> 
+
+<h2 align="left">Connect with me:</h2> 
+
 
 If you want to know more about my projects or about me:
 
